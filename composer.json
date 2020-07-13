@@ -1,5 +1,5 @@
 {
-  "name": "pierre-vassoilles/recaptcha-bundle",
+  "name": "gonzakpo/recaptcha-bundle",
   "description": "Recaptcha Bundle creates a form element form Google NoCaptcha Recaptcha v2",
   "type": "symfony-bundle",
   "license": "MIT",

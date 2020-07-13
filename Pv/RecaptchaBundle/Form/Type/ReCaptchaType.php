@@ -81,7 +81,6 @@ class ReCaptchaType extends AbstractType
             )
             ->addAllowedTypes(
                 array(
-                    'invisible'        => 'boolean',
                     'form_id'          => 'string',
                 )
             );

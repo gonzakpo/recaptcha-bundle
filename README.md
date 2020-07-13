@@ -7,7 +7,7 @@ It provides a form type to include in your forms and a specific validator.
 
 Install with composer :
 ```bash
-composer require pierre-vassoilles/recaptcha-bundle
+composer require gonzakpo/recaptcha-bundle
 ```
 
 ### Enable the bundle in your project
